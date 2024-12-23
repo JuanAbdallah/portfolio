@@ -1,1 +1,1 @@
-crud de recados com .Net
+crud de recados que consome uma api em c# e front feito com blazor e razor.
